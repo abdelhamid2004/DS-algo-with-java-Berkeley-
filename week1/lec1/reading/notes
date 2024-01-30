@@ -3,6 +3,7 @@
     • compile the file of java go with two stages :
     
       - javac file_name to create the file_name.class file
+
       
       -java file_name to run the program 
       
